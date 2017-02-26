@@ -1,0 +1,33 @@
+﻿@model IEnumerable<InstructionForServer.Models.Instruction>
+
+@{
+    Layout = null;
+}
+@{ int i = 0;
+   var modelCount = Model.Count(); // количество итераций
+    foreach (var p in Model)
+    {
+        if (modelCount == 1)
+        {
+            @Html.Raw("{\"result\":[" + Json.Encode(p)); // если имеется только одна запись, в противном случае идет дублирование этой одной записи
+            i = +100;
+            break;
+        }
+        
+        if (i == 0) { 
+          @Html.Raw("{\"result\":[" + Json.Encode(p) + ","); // ставим впереди "{\"result\":[" и запятую в конце
+        }
+        
+        if (i + 1 < modelCount && i != 0)
+        {
+          @Html.Raw(Json.Encode(p) + ","); // ставим запятую после каждой итерации
+        }
+
+        i++;
+        
+        if (modelCount == i)
+        {
+            @Html.Raw(Json.Encode(p)); // в конце выражения запятая не нужна, получается в итоге так: {"result":[{x},{y},{z}]}
+        }
+    }
+  }]}

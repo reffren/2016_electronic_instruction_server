@@ -1,0 +1,68 @@
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\InstructionForServer.dll.config
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\InstructionForServer.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\InstructionForServer.pdb
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\EntityFramework.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\EntityFramework.SqlServer.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Helpers.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Mvc.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Razor.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Deployment.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Razor.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\EntityFramework.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\EntityFramework.SqlServer.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Razor.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Deployment.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Razor.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Helpers.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\System.Web.Mvc.xml
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\ru\System.Web.Razor.resources.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\ru\System.Web.Webpages.resources.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\ru\System.Web.Webpages.Deployment.resources.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\ru\System.Web.Webpages.Razor.resources.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\ru\System.Web.Helpers.resources.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\bin\ru\System.Web.Mvc.resources.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\obj\Debug\InstructionForServer.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\obj\Debug\InstructionForServer.dll
+c:\users\tim\documents\visual studio 2013\Projects\InstructionForServer\InstructionForServer\obj\Debug\InstructionForServer.pdb
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\InstructionForServer\InstructionForServer\bin\Castle.Core.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\InstructionForServer\InstructionForServer\bin\Moq.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\InstructionForServer\InstructionForServer\bin\Ninject.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\InstructionForServer\InstructionForServer\bin\Castle.Core.xml
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\InstructionForServer\InstructionForServer\bin\Moq.xml
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\InstructionForServer\InstructionForServer\bin\Ninject.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\InstructionForServer.dll.config
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\InstructionForServer.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\InstructionForServer.pdb
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\Castle.Core.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\EntityFramework.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\EntityFramework.SqlServer.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\Moq.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\Ninject.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Helpers.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Mvc.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Razor.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\Castle.Core.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\EntityFramework.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\EntityFramework.SqlServer.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\Moq.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\Ninject.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Razor.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Helpers.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\System.Web.Mvc.xml
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\obj\Debug\InstructionForServer.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\obj\Debug\InstructionForServer.dll
+C:\Users\Tim\Desktop\InstructionForServer\InstructionForServer\obj\Debug\InstructionForServer.pdb
